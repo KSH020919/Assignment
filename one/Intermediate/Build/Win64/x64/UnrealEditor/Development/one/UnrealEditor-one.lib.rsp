@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-one.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\unreal1\one\Intermediate\Build\Win64\x64\oneEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\unreal1\one\Intermediate\Build\Win64\x64\UnrealEditor\Development\one\one.cpp.obj"
+"D:\unreal1\one\Intermediate\Build\Win64\x64\UnrealEditor\Development\one\PerModuleInline.gen.cpp.obj"
+"D:\unreal1\one\Intermediate\Build\Win64\x64\UnrealEditor\Development\one\Default.rc2.res"
+/OUT:"D:\unreal1\one\Intermediate\Build\Win64\x64\UnrealEditor\Development\one\UnrealEditor-one.lib"
