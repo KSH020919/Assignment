@@ -1,17 +1,17 @@
-"D:\unreal1\one\Source\one\one.cpp"
-/FI"D:\unreal1\one\Intermediate\Build\Win64\x64\oneEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/FI"D:\unreal1\one\Intermediate\Build\Win64\x64\UnrealEditor\Development\one\Definitions.one.h"
-/Yu"D:\unreal1\one\Intermediate\Build\Win64\x64\oneEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/Fp"D:\unreal1\one\Intermediate\Build\Win64\x64\oneEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
-/Fo"D:\unreal1\one\Intermediate\Build\Win64\x64\UnrealEditor\Development\one\one.cpp.obj"
-/experimental:log "D:\unreal1\one\Intermediate\Build\Win64\x64\UnrealEditor\Development\one\one.cpp.sarif"
-/sourceDependencies "D:\unreal1\one\Intermediate\Build\Win64\x64\UnrealEditor\Development\one\one.cpp.dep.json"
-@"D:\unreal1\one\Intermediate\Build\Win64\x64\UnrealEditor\Development\one\one.Shared.rsp"
-/d2ssa-cfg-question-
+"D:/unreal1/Assignment/one/Source/one/one.cpp"
+@"D:/unreal1/Assignment/one/Intermediate/Build/Win64/x64/UnrealEditor/Development/one/one.Shared.rsp"
+/FI"D:/unreal1/Assignment/one/Intermediate/Build/Win64/x64/oneEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_5.h"
+/FI"D:/unreal1/Assignment/one/Intermediate/Build/Win64/x64/UnrealEditor/Development/one/Definitions.one.h"
+/Yu"D:/unreal1/Assignment/one/Intermediate/Build/Win64/x64/oneEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_5.h"
+/Fp"D:/unreal1/Assignment/one/Intermediate/Build/Win64/x64/oneEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_5.h.pch"
+/Fo"D:/unreal1/Assignment/one/Intermediate/Build/Win64/x64/UnrealEditor/Development/one/one.cpp.obj"
+/experimental:log "D:/unreal1/Assignment/one/Intermediate/Build/Win64/x64/UnrealEditor/Development/one/one.cpp.sarif"
+/sourceDependencies "D:/unreal1/Assignment/one/Intermediate/Build/Win64/x64/UnrealEditor/Development/one/one.cpp.dep.json"
 /Zc:inline
 /nologo
 /Oi
 /FC
+/diagnostics:caret
 /c
 /Gw
 /Gy
@@ -39,15 +39,14 @@
 /fp:fast
 /Zo
 /Zp8
+/W4
 /we4456
 /we4458
 /we4459
-/we4668
 /wd4244
 /wd4838
 /TP
 /GR-
-/W4
 /std:c++20
 /Zc:preprocessor
 /wd5054

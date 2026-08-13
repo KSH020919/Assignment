@@ -11,6 +11,7 @@
     <None Include="..\..\Source\oneEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -35,8 +36,8 @@
     <ClCompile Include="..\..\Source\one\one.cpp">
       <Filter>Source\one</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Source\one\one.h">
+    <ClInclude Include="..\..\Source\one\one.h">
       <Filter>Source\one</Filter>
-    </ClCompile>
+    </ClInclude>
   </ItemGroup>
 </Project>
