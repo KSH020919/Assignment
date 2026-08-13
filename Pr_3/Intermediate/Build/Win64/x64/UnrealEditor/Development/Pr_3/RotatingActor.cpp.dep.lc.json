@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal1\\pr_3\\source\\pr_3\\rotatingactor.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal1\\pr_3\\intermediate\\build\\win64\\x64\\pr_3editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal1\\pr_3\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\pr_3\\definitions.pr_3.h",
+            "d:\\unreal1\\pr_3\\source\\pr_3\\rotatingactor.h",
+            "d:\\unreal1\\pr_3\\intermediate\\build\\win64\\unrealeditor\\inc\\pr_3\\uht\\rotatingactor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

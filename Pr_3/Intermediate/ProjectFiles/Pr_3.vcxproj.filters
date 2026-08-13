@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Pr_3.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Pr_3.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Pr_3Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Pr_3">
+      <UniqueIdentifier>{D22365ED-55E2-3E6F-BD43-6692453E0099}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Pr_3\MovingPlatformActor.cpp">
+      <Filter>Source\Pr_3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Pr_3\MovingPlatformActor.h">
+      <Filter>Source\Pr_3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Pr_3\MyPlayerPawn.cpp">
+      <Filter>Source\Pr_3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Pr_3\MyPlayerPawn.h">
+      <Filter>Source\Pr_3</Filter>
+    </ClCompile>
+    <None Include="..\..\Source\Pr_3\Pr_3.Build.cs">
+      <Filter>Source\Pr_3</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Pr_3\Pr_3.cpp">
+      <Filter>Source\Pr_3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Pr_3\Pr_3.h">
+      <Filter>Source\Pr_3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Pr_3\RotatingActor.cpp">
+      <Filter>Source\Pr_3</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Pr_3\RotatingActor.h">
+      <Filter>Source\Pr_3</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
