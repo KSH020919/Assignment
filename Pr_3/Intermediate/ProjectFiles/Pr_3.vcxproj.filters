@@ -33,29 +33,29 @@
     <ClCompile Include="..\..\Source\Pr_3\MovingPlatformActor.cpp">
       <Filter>Source\Pr_3</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Source\Pr_3\MovingPlatformActor.h">
+    <ClInclude Include="..\..\Source\Pr_3\MovingPlatformActor.h">
       <Filter>Source\Pr_3</Filter>
-    </ClCompile>
+    </ClInclude>
     <ClCompile Include="..\..\Source\Pr_3\MyPlayerPawn.cpp">
       <Filter>Source\Pr_3</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Source\Pr_3\MyPlayerPawn.h">
+    <ClInclude Include="..\..\Source\Pr_3\MyPlayerPawn.h">
       <Filter>Source\Pr_3</Filter>
-    </ClCompile>
+    </ClInclude>
     <None Include="..\..\Source\Pr_3\Pr_3.Build.cs">
       <Filter>Source\Pr_3</Filter>
     </None>
     <ClCompile Include="..\..\Source\Pr_3\Pr_3.cpp">
       <Filter>Source\Pr_3</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Source\Pr_3\Pr_3.h">
+    <ClInclude Include="..\..\Source\Pr_3\Pr_3.h">
       <Filter>Source\Pr_3</Filter>
-    </ClCompile>
+    </ClInclude>
     <ClCompile Include="..\..\Source\Pr_3\RotatingActor.cpp">
       <Filter>Source\Pr_3</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Source\Pr_3\RotatingActor.h">
+    <ClInclude Include="..\..\Source\Pr_3\RotatingActor.h">
       <Filter>Source\Pr_3</Filter>
-    </ClCompile>
+    </ClInclude>
   </ItemGroup>
 </Project>
